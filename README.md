@@ -1,2 +1,2 @@
-Nil's first git project
-this is some scary stuff, no lie
+Nil's first git project.
+This is some scary stuff, no lie
